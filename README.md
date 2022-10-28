@@ -25,5 +25,6 @@ In spite of what was said above, in my opinion this project has potential.
 Just because this project was done in a short time by myself, there are many things to improve in it, for example, the average accuracy of the NLP model is 70%, which is considered not bad, but not good either (the performance of modern NLP models is above 95%). Also the test part is quite small. In conclusion, it would be great if this project had an interactive graphical interface.
 
 # Authors
+- https://github.com/just-a-Programmer1
 
 # License
