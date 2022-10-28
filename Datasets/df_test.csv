@@ -1,0 +1,11 @@
+Name,Gender,Age,Education,Experience,Employee_eval,Test_result,Cumulative_GPA,Application_year,Was_hired
+МАА,Female,18,High_school,0,Null,65,3.0,2002,0
+МАБ,Male,28,Master,2,7,97,4.15,2003,1
+МАВ,Male,22,Master,2,5,56,4.35,2004,0
+МАГ,Male,35,Bachelor,1,9,79,4.23,2005,0
+МАД,Female,50,Master,16,7,86,4.32,2000,1
+МАЕ,Male,43,PhD,13,7,95,4.41,1999,1
+МАЖ,Female,25,Master,5,7,91,4.36,1998,1
+МАЗ,Female,19,Master,0,Null,87,4.57,1997,1
+МАИ,Male,19,Bachelor,1,5,81,4.14,1996,0
+МАК,Female,26,PhD,6,10,79,4.78,1995,1
