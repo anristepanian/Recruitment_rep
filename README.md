@@ -28,3 +28,4 @@ Just because this project was done in a short time by myself, there are many thi
 - https://github.com/just-a-Programmer1
 
 # License
+[GNU General Public License v2.0](LICENSE)
