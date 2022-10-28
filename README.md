@@ -10,7 +10,7 @@ The following development tools were used:
 - "MS Excel" for creating and containing large amounts of data.
 
 # How to run the project
-To start, load the [main file](Main.ipynb) in your Google Drive, after open it via Google Colab.
+To start, load the [main file](Main.ipynb) in your Google Drive, after open it via Google Colab. (Use GPU to increase the training speed of the neural networks)
 Run first cell and load all csv files from [Datasets](Datasets) folder to Google Colab. CSV files are required for training and testing neural networks.
 Run the second cell and wait until the neural network is trained.
 Enter your data and pass the test, then run the third cell. The program will show your mistakes, then the percentage of your relevance.
