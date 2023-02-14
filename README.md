@@ -11,10 +11,10 @@ The following development tools were used:
 
 # How to run the project
 To start, load the [main file](Main.ipynb) in your Google Drive, after open it via Google Colab. (Use GPU to increase the training speed of the neural networks)
-Run first cell and load all csv files from [Datasets](Datasets) folder to Google Colab. CSV files are required for training and testing neural networks.
+Run the first cell. CSV files are required for training and testing neural networks.
 Run the second cell and wait until the neural network is trained.
 Enter your data and pass the test, then run the third cell. The program will show your mistakes, then the percentage of your relevance.
-You can then add your letter of recommendation and launch the fourth cell. The program will tell you if your letter of recommendation is good or not.
+You can then add your recommendation letter and launch the fourth cell. The program will tell you whether your recommendation letter is good or not.
 In the end you can check the prediction rate of your recommendation letter (rate higher than 0 is considered well) and the accuracy of neural networks.
 
 # How to use the project
