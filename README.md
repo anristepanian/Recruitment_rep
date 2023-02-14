@@ -22,7 +22,7 @@ THIS PROJECT IS CREATED FOR ENTERTAINMENT AND SHOULD NOT BE USED TO EVALUATE REA
 In spite of what was said above, in my opinion this project has potential.
 
 # How to improve the project
-Just because this project was done in a short time by myself, there are many things to improve in it, for example, the average accuracy of the NLP model is 70%, which is considered not bad, but not good either (the performance of modern NLP models is above 95%). Also the test part is quite small. In conclusion, it would be great if this project had an interactive graphical interface.
+Just because this project was done by myself, there are many things to improve in it, for example, the average accuracy of the LSTM model is 70%, which is considered not bad, but not good either (the performance of modern models for NLP is above 95%). Also the test part is quite small and it would be great if this project had an interactive graphical interface.
 
 # Authors
 - https://github.com/just-a-Programmer1
