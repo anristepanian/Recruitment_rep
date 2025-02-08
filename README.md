@@ -18,14 +18,14 @@ You can then add your recommendation letter and launch the fourth cell. The prog
 In the end you can check the prediction rate of your recommendation letter (rate higher than 0 is considered well) and the accuracy of neural networks.
 
 # How to use the project
-THIS PROJECT IS CREATED FOR ENTERTAINMENT AND SHOULD NOT BE USED TO EVALUATE REAL EMPLOYEES, because it's not entirely accurate!
-In spite of what was said above, in my opinion this project has potential.
+This project was created for entertainment purposes!<br>
+Despite what was said above, in my opinion, this project has potential.
 
 # How to improve the project
-Just because this project was done by myself, there are many things to improve in it, for example, the average accuracy of the LSTM model is 70%, which is considered not bad, but not good either (the performance of modern models for NLP is above 95%). Also the test part is quite small and it would be great if this project had an interactive graphical interface.
+There are many things to improve here, for example, the average accuracy of the LSTM model is 70%, which is considered not bad, but not good either (the performance of modern models for NLP is above 95%). Also the test part is quite small and it would be great if this project had an interactive graphical interface.
 
 # Authors
-- https://github.com/anristepanian
+The project was developed by [me](https://github.com/anristepanian)
 
 # License
 [GNU General Public License v2.0](LICENSE)
