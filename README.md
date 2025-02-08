@@ -25,7 +25,7 @@ Despite what was said above, in my opinion, this project has potential.
 There are many things to improve here, for example, the average accuracy of the LSTM model is 70%, which is considered not bad, but not good either (the performance of modern models for NLP is above 95%). Also the test part is quite small and it would be great if this project had an interactive graphical interface.
 
 # Authors
-The project was developed by [me](https://github.com/anristepanian)
+The project was developed by [Anri Stepanian](https://github.com/anristepanian)
 
 # License
 [GNU General Public License v2.0](LICENSE)
